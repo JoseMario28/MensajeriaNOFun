@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margenes1"> 16dp </dimen>
+    <dimen name="tam_titulos"> 40sp </dimen>
+
+
+
+</resources>

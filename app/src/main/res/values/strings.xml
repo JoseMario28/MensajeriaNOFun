@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mensajeria</string>
+    <string name="titulo">Mensajeria</string>
+    <string name="textview">TextView</string>
+    <string name="hint">Introduce tu mensaje</string>
+    <string name="enviar">Enviar</string>
+</resources>
